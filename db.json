@@ -1,8 +1,0 @@
-{      
-"ListeRapportsReunions": [
-        { "id": 1, "Titre_de_reunion": "Réunion 1", "date_reunion": "07-04-2022", "Statut":"Terminé" , "planificateur": { "id": 1, "nom": "Miled", "prenom": "brahem", "Email": "brahemmiled@gmail.com", "Association": "AIESEC", "Fonction":"Trésorier" , "Statut":"Actif", "telephone": 52159357 , "Adresse": "Bizerte", "CIN": 11547857 , "Date_de_naissance":"2022-02-13" }},
-        { "id": 2, "Titre_de_reunion": "Réunion 2", "date_reunion": "08-10-2022", "Statut":"Cloturé" , "planificateur": { "id": 2, "nom": "Wasila", "prenom": "zaghbib", "Email": "wasilazaghbib@gmail.com", "Association": "CONECT", "Fonction":"Secrétaire général" , "Statut":"Actif", "telephone": 54785487 , "Adresse": "Tunis", "CIN": 11754834 , "Date_de_naissance":"17-02-2002"}},
-        { "id": 3, "Titre_de_reunion": "Réunion 3", "date_reunion": "06-11-2022", "Statut":"Annulé" ,  "planificateur": { "id": 3, "nom": "Monia", "prenom": "nammane", "Email": "monia@gmail.com", "Association": "MCNCOM", "Fonction":"Adhérant bienfaiteur" , "Statut":"Inactif", "telephone": 27514785 , "Adresse": "Metline", "CIN": 11457469 , "Date_de_naissance":"17-02-2001"}},
-        { "id": 4, "Titre_de_reunion": "Réunion 4", "date_reunion": "07-05-2022", "Statut":"Live" ,  "planificateur":   { "id": 4, "nom": "Maram", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "Fonction":"Adhérant normale" , "Statut":"Actif", "telephone": 22145854 , "Adresse": "Sousse", "CIN": 11455715 , "Date_de_naissance":"02-01-1999"}}
-  ]
-}
