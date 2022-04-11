@@ -4,5 +4,13 @@
         { "id": 2, "Titre_de_reunion": "Réunion 2", "date_reunion": "08-10-2022", "rapport":"Rapport 2" ,"Statut":"Cloturé" , "planificateur": { "id": 2, "nom": "Wasila", "prenom": "zaghbib", "Email": "wasilazaghbib@gmail.com", "Association": "CONECT", "Fonction":"Secrétaire général" , "Statut":"Actif", "telephone": 54785487 , "Adresse": "Tunis", "CIN": 11754834 , "Date_de_naissance":"17-02-2002"}},
         { "id": 3, "Titre_de_reunion": "Réunion 3", "date_reunion": "06-11-2022", "rapport":"Rapport 3", "Statut":"Terminé" , "planificateur": { "id": 3, "nom": "Monia", "prenom": "nammane", "Email": "monia@gmail.com", "Association": "MCNCOM", "Fonction":"Adhérant bienfaiteur" , "Statut":"Inactif", "telephone": 27514785 , "Adresse": "Metline", "CIN": 11457469 , "Date_de_naissance":"17-02-2001"}},
         { "id": 4, "Titre_de_reunion": "Réunion 4", "date_reunion": "07-05-2022", "rapport":"Rapport 4" , "Statut":"Live" ,  "planificateur":   { "id": 4, "nom": "Maram", "prenom": "bourguiba", "Email": "bourguiba@gmail.com", "Association": "JAMIATY", "Fonction":"Adhérant normale" , "Statut":"Actif", "telephone": 22145854 , "Adresse": "Sousse", "CIN": 11455715 , "Date_de_naissance":"02-01-1999"}}
+  ] , 
+         "ListeInventairePhysique": [
+        { "id": 1, "nom_equipement": "Ordinateur portable", "categorie": "Accessoire pour ordinateur", "prix": "958,000 DT", "date_d'acquisition":"11-04-2022" , "Etat":"Bonne état" , "description": "Equipement1" },
+        { "id": 2, "nom_equipement": "Chaise", "categorie": "Accessoire pour la salle des réunions", "prix": "20 DT", "date_d'acquisition":"05-02-2022" , "Etat":"Défectueux" , "description":"Equipement2" },
+        { "id": 3, "nom_equipement": "Photocopieuse", "categorie": "Accessoire de bureau", "prix": "350,000 DT", "date_d'acquisition":"07-03-2022" ,  "Etat":"Transférer d’un bureau a un autre " , "description":"Equipement3" },
+        { "id": 4, "nom_equipement": "Caméra", "categorie": "Accessoire pour les évènements", "prix": "70 DT", "date_d'acquisition":"17-04-2022" ,  "Etat":"Bonne état" , "description":"Equipement4" },
+        { "id": 5, "nom_equipement": "Table", "categorie": "Accessoire pour la salle des réunions", "prix": "250,000 DT", "date_d'acquisition":"20-02-2022" ,  "Etat":"peut être réparer " , "description":"Equipement5" }
+   
   ]
 }
