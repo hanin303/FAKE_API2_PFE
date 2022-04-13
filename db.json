@@ -14,11 +14,11 @@
    
   ],
         "ScoreAdherant": [
-        { "id": 1, "action": "Participation au organisation des réunions", "Score":"+1 point " , "Date de soumission":"2022/02/20" , "Statut":"Termineé" },
-        { "id": 2, "action": "Particiation aux réunion du kick-off", "Score":"+2 point " , "Date de soumission":"2022/03/14" , "Statut":"Termineé" },
-        { "id": 3, "action": "Faire des travaux de suivi pour les associations", "Score":"-1 point " , "Date de soumission":"2022/11/12" , "Statut":"Réfuser"  },
-        { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "Date de soumission":"2022/01/01" , "Statut":"Termineé" },
-        { "id": 5, "action": "Proposer l'idée de mettre en relation des association via une platforme de resautage ", "Score":"+1 point " , "Date de soumission":"2022/02/02" , "Statut":"Termineé" }
+        { "id": 1, "action": "Participation au organisation des réunions", "Score":"+1 point " , "Date_de_soumission":"2022/02/20" , "Statut":"Termineé" },
+        { "id": 2, "action": "Particiation aux réunion du kick-off", "Score":"+2 point " , "Date_de_soumission":"2022/03/14" , "Statut":"Termineé" },
+        { "id": 3, "action": "Faire des travaux de suivi pour les associations", "Score":"-1 point " , "Date_de_soumission":"2022/11/12" , "Statut":"Réfuser"  },
+        { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "Date_de_soumission":"2022/01/01" , "Statut":"Termineé" },
+        { "id": 5, "action": "Proposer l'idée de mettre en relation des association via une platforme de resautage ", "Score":"+1 point " , "Date_de_soumission":"2022/02/02" , "Statut":"Termineé" }
    
   ]
       
