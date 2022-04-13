@@ -12,6 +12,14 @@
         { "id": 4, "nom_equipement": "Caméra",  "type":"Canon" , "période_garantie":"9 mois", "Fournisseur":"Amina ammar" , "telephone":55891319 , "email_fournisseur":"amina@gmail.com" , "respensable":"Salem mokded" , "email":"Salemmokded@gmail.com" , "categorie": "Accessoire pour les évènements", "prix": "70 DT", "date_dacquisition":"17-04-2022" ,  "Etat":"Bonne état" , "description":"Equipement4" },
         { "id": 5, "nom_equipement": "Table", "type":"En bois" , "période_garantie":"4 mois", "Fournisseur":"Ahmed bourguiba" , "telephone":95891319 , "email_fournisseur":"bourguiba@gmail.com" , "respensable":"Mohamed nammane" , "email":"ammarslim@gmail.com" , "categorie": "Accessoire pour la salle des réunions", "prix": "250,000 DT", "date_dacquisition":"20-02-2022" ,  "Etat":"peut être réparer " , "description":"Equipement5" }
    
+  ],
+        "ScoreAdherant": [
+        { "id": 1, "action": "Participation au organisation des réunions", "Score":"+1 point " , "Date de soumission":"2022/02/20" , "Statut":"Termineé" },
+        { "id": 2, "action": "Particiation aux réunion du kick-off", "Score":"+2 point " , "Date de soumission":"2022/03/14" , "Statut":"Termineé" },
+        { "id": 3, "action": "Faire des travaux de suivi pour les associations", "Score":"-1 point " , "Date de soumission":"2022/11/12" , "Statut":"Réfuser"  },
+        { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "Date de soumission":"2022/01/01" , "Statut":"Termineé" },
+        { "id": 5, "action": "Proposer l'idée de mettre en relation des association via une platforme de resautage ", "Score":"+1 point " , "Date de soumission":"2022/02/02" , "Statut":"Termineé" }
+   
   ]
       
 }
