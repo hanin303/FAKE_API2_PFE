@@ -20,6 +20,15 @@
         { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "Date_de_soumission":"2022/01/01" , "Statut":"Termineé" },
         { "id": 5, "action": "Proposer l'idée de mettre en relation des association via une platforme de resautage ", "Score":"+1 point " , "Date_de_soumission":"2022/02/02" , "Statut":"Termineé" }
    
+  ],
+         "GrandLivre": [
+        { "id": 1, "Date": "Début", "intitulé":" - " , "Débit":" - " , "Crédit":" - " , "Solde":" - "  },
+        { "id": 2, "Date": "2022/04/04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":" - " , "Crédit":"100 D" , "Solde":" - "  },
+        { "id": 3, "Date": "2021/05/20", "intitulé":"Adhésion Dorra zarouk " , "Débit":" - " , "Crédit":"120 D" , "Solde":" - "  },
+        { "id": 4, "Date": "2022/04/05", "intitulé":"Adhésion Salem ammar" , "Débit":" - " , "Crédit":"50 D " , "Solde":" - "  },
+        { "id": 5, "Date": "Fin", "intitulé":" - " , "Débit":" 0 D " , "Crédit":"270 D" , "Solde":" 270 "  },
+        
+   
   ]
       
 }
