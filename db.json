@@ -26,9 +26,8 @@
         { "id": 2, "Date": "2022/04/04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":" - " , "Crédit":"100 D" , "Solde":" - "  },
         { "id": 3, "Date": "2021/05/20", "intitulé":"Adhésion Dorra zarouk " , "Débit":" - " , "Crédit":"120 D" , "Solde":" - "  },
         { "id": 4, "Date": "2022/04/05", "intitulé":"Adhésion Salem ammar" , "Débit":" - " , "Crédit":"50 D " , "Solde":" - "  },
-        { "id": 5, "Date": "Fin", "intitulé":" - " , "Débit":" 0 D " , "Crédit":"270 D" , "Solde":" 270 "  },
-        
-   
+        { "id": 5, "Date": "Fin", "intitulé":" - " , "Débit":" 0 D " , "Crédit":"270 D" , "Solde":" 270 " }
+       
   ]
       
 }
