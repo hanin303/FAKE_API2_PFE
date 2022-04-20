@@ -14,11 +14,11 @@
    
   ],
         "ScoreAdherant": [
-        { "id": 1, "action": "Participation au organisation des réunions", "Score":"+1 point " , "point_totaux":"2/3 point" , "Date_de_soumission":"2022/02/20" , "Statut":"Termineé" },
-        { "id": 2, "action": "Particiation aux réunion du kick-off", "Score":"+2 point " , "point_totaux":"2/2 point" , "Date_de_soumission":"2022/03/14" , "Statut":"Termineé" },
-        { "id": 3, "action": "Faire des travaux de suivi pour les associations", "Score":"-1 point " , "point_totaux":"0/3 point" , "Date_de_soumission":"2022/11/12" , "Statut":"Réfuser"  },
+        { "id": 1, "action": "Participation au organisation des réunions de l'association conect", "Score":"+1 point " , "point_totaux":"2/3 point" , "Date_de_soumission":"2022/02/20" , "Statut":"Termineé" },
+        { "id": 2, "action": "Particiation aux réunion du kick-off a la date de 17/02/2022", "Score":"+2 point " , "point_totaux":"2/2 point" , "Date_de_soumission":"2022/03/14" , "Statut":"Termineé" },
+        { "id": 3, "action": "Faire des travaux de suivi pour les associations partenaire", "Score":"-1 point " , "point_totaux":"0/3 point" , "Date_de_soumission":"2022/11/12" , "Statut":"Réfuser"  },
         { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "point_totaux":"3/3 point" , "Date_de_soumission":"2022/01/01" , "Statut":"Termineé" },
-        { "id": 5, "action": "Proposer l'idée de mettre en relation des association via une platforme de resautage ", "Score":"+1 point " , "point_totaux":"1/1 point " , "Date_de_soumission":"2022/02/02" , "Statut":"Termineé" }
+        { "id": 5, "action": "Proposer l'idée de mettre des association via une platforme de resautage ", "Score":"+1 point " , "point_totaux":"1/1 point " , "Date_de_soumission":"2022/02/02" , "Statut":"Termineé" }
    
   ],
          "GrandLivre": [
