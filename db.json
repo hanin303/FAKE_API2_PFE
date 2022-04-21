@@ -28,6 +28,15 @@
         { "id": 4, "Date": "2022/04/05", "intitulé":"Adhésion Salem ammar" , "Débit":"_" , "Crédit":"50 D " , "Solde":"_"  },
         { "id": 5, "Date": "Fin", "intitulé":"_" , "Débit":" 0 D " , "Crédit":"270 D" , "Solde":" 270 " }
        
+  ], 
+         "RapportsAnnuels": [
+        { "id": 1, "RapportAnnuel": "pdf1" , "Année": "2018" },
+        { "id": 2, "RapportAnnuel": "pdf2" , "Année": "2019" },
+        { "id": 3, "RapportAnnuel": "pdf3" , "Année": "2020" },
+        { "id": 4, "RapportAnnuel": "pdf4" , "Année": "2021" },
+        { "id": 5, "RapportAnnuel": "pdf5" , "Année": "2022" }
+       
   ]
+        
       
 }
