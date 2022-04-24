@@ -30,11 +30,11 @@
        
   ], 
          "RapportsAnnuels": [
-        { "id": 1, "RapportAnnuel": "pdf1" , "Année": "2018" },
-        { "id": 2, "RapportAnnuel": "pdf2" , "Année": "2019" },
-        { "id": 3, "RapportAnnuel": "pdf3" , "Année": "2020" },
-        { "id": 4, "RapportAnnuel": "pdf4" , "Année": "2021" },
-        { "id": 5, "RapportAnnuel": "pdf5" , "Année": "2022" }
+        { "id": 1, "RapportAnnuel": "Rapport Annuel 2018" },
+        { "id": 2, "RapportAnnuel": "Rapport Annuel 2019" },
+        { "id": 3, "RapportAnnuel": "Rapport Annuel 2020" },
+        { "id": 4, "RapportAnnuel": "Rapport Annuel 2021" },
+        { "id": 5, "RapportAnnuel": "Rapport Annuel 2022" }
        
   ]
         
