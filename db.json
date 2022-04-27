@@ -14,18 +14,18 @@
    
   ],
         "ScoreAdherant": [
-        { "id": 1, "action": "Participation au organisation des réunions de l'association conect", "Score":"+1 point " , "point_totaux":"2/3 point" , "Date_de_soumission":"2022/02/20" , "Statut":"Termineé" },
-        { "id": 2, "action": "Particiation aux réunion du kick-off a la date de 17/02/2022", "Score":"+2 point " , "point_totaux":"2/2 point" , "Date_de_soumission":"2022/03/14" , "Statut":"Termineé" },
-        { "id": 3, "action": "Faire des travaux de suivi pour les associations partenaire", "Score":"-1 point " , "point_totaux":"0/3 point" , "Date_de_soumission":"2022/11/12" , "Statut":"Réfuser"  },
-        { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "point_totaux":"3/3 point" , "Date_de_soumission":"2022/01/01" , "Statut":"Termineé" },
-        { "id": 5, "action": "Proposer de réunir des association via une platforme de resautage ", "Score":"+1 point " , "point_totaux":"1/1 point " , "Date_de_soumission":"2022/02/02" , "Statut":"Termineé" }
+        { "id": 1, "action": "Participation au organisation des réunions de l'association conect", "Score":"+1 point " , "point_totaux":"2/3 point" , "Date_de_soumission":"2022-02-20" , "Statut":"Termineé" },
+        { "id": 2, "action": "Particiation aux réunion du kick-off a la date de 17/02/2022", "Score":"+2 point " , "point_totaux":"2/2 point" , "Date_de_soumission":"2022-03-14" , "Statut":"Termineé" },
+        { "id": 3, "action": "Faire des travaux de suivi pour les associations partenaire", "Score":"-1 point " , "point_totaux":"0/3 point" , "Date_de_soumission":"2022-11-12" , "Statut":"Réfuser"  },
+        { "id": 4, "action": "Préparation et implémentation de l'évènement Developpment durable ", "Score":"+3 point " , "point_totaux":"3/3 point" , "Date_de_soumission":"2022-01-01" , "Statut":"Termineé" },
+        { "id": 5, "action": "Proposer de réunir des association via une platforme de resautage ", "Score":"+1 point " , "point_totaux":"1/1 point " , "Date_de_soumission":"2022-02-02" , "Statut":"Termineé" }
    
   ],
          "GrandLivre": [
-        { "id": 1, "Date": "2020/25/08", "intitulé":"Paiment Facture" , "Débit": "20D" , "Crédit": "_" , "Code": "PF" ,  "Statut": "Effectuer"  },
-        { "id": 2, "Date": "2022/04/04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":"_" , "Crédit":" _ " , "Code":"AA" ,  "Statut": "n'est pas Effectuer" },
-        { "id": 3, "Date": "2021/05/20", "intitulé":"Adhésion Dorra zarouk " , "Débit":"_" , "Crédit":"250 D" , "Code":"AA" ,  "Statut": "Effectuer"},
-        { "id": 4, "Date": "2022/04/05", "intitulé":"Adhésion Salem ammar" , "Débit":"_" , "Crédit":"50 D " , "Code":"AA" ,  "Statut": "Effectuer" },
+        { "id": 1, "Date": "2020-25-08", "intitulé":"Paiment Facture" , "Débit": "20D" , "Crédit": "_" , "Code": "PF" ,  "Statut": "Effectuer"  },
+        { "id": 2, "Date": "2022-04-04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":"_" , "Crédit":" _ " , "Code":"AA" ,  "Statut": "n'est pas Effectuer" },
+        { "id": 3, "Date": "2021-05-20", "intitulé":"Adhésion Dorra zarouk " , "Débit":"_" , "Crédit":"250 D" , "Code":"AA" ,  "Statut": "Effectuer"},
+        { "id": 4, "Date": "2022-04-05", "intitulé":"Adhésion Salem ammar" , "Débit":"_" , "Crédit":"50 D " , "Code":"AA" ,  "Statut": "Effectuer" },
         { "id": 5, "Date": "Montant Totale", "intitulé":"_" , "Code":"_" , "Débit":" 20D " , "Crédit":"300 D"  ,  "Statut": "280D"  }
        
   ], 
