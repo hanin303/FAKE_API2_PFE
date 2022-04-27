@@ -22,12 +22,12 @@
    
   ],
          "GrandLivre": [
-        { "id": 1, "Date": "", "intitulé":"Initial" , "Débit": 850 , "Crédit": 0, "Code": 0 ,  "Statut": null  },
-        { "id": 2, "Date": "2020-25-08", "intitulé":"Paiment Facture" , "Débit": 20 , "Crédit": 0, "Code": "PFP95" ,  "Statut": "Effectuer"  },
-        { "id": 3, "Date": "2022-04-04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":850 , "Crédit":0 , "Code":"ABA12" ,  "Statut": "n'est pas Effectuer"},
-        { "id": 4, "Date": "2022-04-04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":0 , "Crédit":100 , "Code":"ACA85" ,  "Statut": "n'est pas Effectuer"},
-        { "id": 5, "Date": "2022-04-04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":100 , "Crédit": 150 , "Code":"AAD74" ,  "Statut": "n'est pas Effectuer"},
-        { "id": 6, "Date": "2021-05-20", "intitulé":"Adhésion Dorra zarouk " , "Débit": 0 , "Crédit": 250 , "Code":"AAG58" ,  "Statut": "Effectuer"}
+        { "id": 1, "Date": "2020-01-01", "intitulé":"Initial" , "Débit": 0 , "Crédit": 0, "Code": 0 , "montant": 850, "Statut": null  },
+        { "id": 2, "Date": "2020-02-08", "intitulé":"Paiment Facture" , "Débit": 20 , "Crédit": 0, "montant": 870, "Code": "PFP95" ,  "Statut": "Effectuer"  },
+        { "id": 3, "Date": "2022-04-04", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":850 , "Crédit":0 , "montant": 1720, "Code":"ABA12" ,  "Statut": "n'est pas Effectuer"},
+        { "id": 4, "Date": "2022-04-12", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":0 , "Crédit":100 , "montant": 1620, "Code":"ACA85" ,  "Statut": "n'est pas Effectuer"},
+        { "id": 5, "Date": "2022-04-19", "intitulé":"Adhésion Hanin ben jemaà" , "Débit":100 , "Crédit": 150 , "montant": 1570, "Code":"AAD74" ,  "Statut": "n'est pas Effectuer"},
+        { "id": 6, "Date": "2021-05-20", "intitulé":"Adhésion Dorra zarouk " , "Débit": 0 , "Crédit": 250 , "montant": 1320, "Code":"AAG58" ,  "Statut": "Effectuer"}
        
   ], 
          "RapportsAnnuels": [
